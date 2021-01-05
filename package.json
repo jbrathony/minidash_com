@@ -16,7 +16,7 @@
     "@progress/kendo-vue-grid": "^0.4.4",
     "@progress/kendo-vue-intl": "^0.4.4",
     "@progress/kendo-vue-popup": "^0.4.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.5.0",
     "deepmerge": "^4.2.2",
